@@ -78,7 +78,7 @@ $url = "http://brightcove.vo.llnwd.net/e1/uds/pd/1084781208001/1084781208001_262
     <div style="float:left;">
         <video width="640" height="360" preload="auto" id="videoplayer" >
             <source src="<?php echo $url; ?>" type="video/mp4" />
-            Este reproductor requiere HTML 5 - Puedes usar Google Chrome<br />
+            Este reproductor requiere HTML 5 - Puedes usar <a href="https://www.google.com/intl/es/chrome/browser/">Google Chrome</a><br />
             <a href="<?php echo $url; ?>">Descargar este video</a>
         </video>
         <br />
